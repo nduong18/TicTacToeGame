@@ -6,6 +6,8 @@
 
 Note: This game only has 2-player mode
 
+This is my first game so it's not perfect yet 😊
+
 Made by: nduong18
 
 Github: nduong18
